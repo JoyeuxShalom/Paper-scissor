@@ -1,8 +1,8 @@
 body {
   margin: 0;
-  background: black;
-  color: white;
-  font-family: roboto, arial, sans-serif;
+  background: rgb(189, 135, 85);
+  color: rgb(209, 203, 203);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #title,
 .desc,
@@ -11,7 +11,7 @@ body {
 #score-label,
 #end-desc,
 #retry-btn {
-  font-family: lacquer, arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   text-align: center;
 }
 #title {
